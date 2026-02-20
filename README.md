@@ -4,7 +4,7 @@ Soluções dos laboratórios de Programação em Java e futuramente outras lingu
 
 📚 Curso: CTeSP Programação em Sistemas de Informação  
 👨‍🎓 Student: Gonçalo Monteiro  
-🔗 LinkedIn: [gncalomonteiro](https://linkedin.com/in/goncalomonteiro-dev)  
+🔗 LinkedIn: [goncalomonteiro-dev](https://linkedin.com/in/goncalomonteiro-dev)  
 📧 Email: gds.monteiroo@gmail.com
 
 ## 📋 Índice de Exercícios
