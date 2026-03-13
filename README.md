@@ -12,7 +12,9 @@ Soluções dos laboratórios de Programação em Java e futuramente outras lingu
 | Folha | Exercícios | Descrição |
 |-------|------------|-----------|
 | [Folha 1](src/folha1/) | 7 exercícios | Loops, condicionais, arrays, geometria básica |
-| [Folha 2](src/folha2/) | ... | 
+| [Folha 2](src/folha2/) | 2 exercícios | Loops, condicionais, validações, built-ins, puzzle |
+| [Folha 3](src/folha3/) | 1 exercício | Estrutura de dados, loops, condicionais, outros |
+| [Folha 4](src/folha4/) | 2 exercícios | Estrutura de dados, loops, condicionais, outros | 
 
 
 ## 📊 Skills Demonstradas
@@ -25,6 +27,9 @@ Soluções dos laboratórios de Programação em Java e futuramente outras lingu
 ## 📄 Fontes
 
 - [Folha de Exercícios 1 (PDF)](Folhas-Exercicios/Folha1.pdf)
+- [Folha de Exercícios 2 (PDF)](Folhas-Exercicios/Folha2.pdf)
+- [Folha de Exercícios 3 (PDF)](Folhas-Exercicios/Folha3.pdf)
+- [Folha de Exercícios 4 (PDF)](Folhas-Exercicios/Folha4.pdf)
 - Resolvido com explicações inline nos códigos.
 
 ⭐ **Star se ajudou!** Feedback em Issues. Próximas folhas a caminho...
